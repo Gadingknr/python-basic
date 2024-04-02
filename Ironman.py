@@ -1,3 +1,3 @@
-from sketchy import library as lib
+from sketchpy import library as lib
 obj = lib.rdj()
 obj.draw()
